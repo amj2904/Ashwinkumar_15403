@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ecommerce.dao.CustomerDaoTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 4, Time elapsed: 2.437 s - in com.ecommerce.dao.CustomerDaoTest
