@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.training.ecommerce.test.CustomerServiceTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.925 s - in com.training.ecommerce.test.CustomerServiceTest
