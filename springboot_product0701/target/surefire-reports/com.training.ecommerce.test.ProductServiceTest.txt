@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.training.ecommerce.test.ProductServiceTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 5.585 s <<< FAILURE! - in com.training.ecommerce.test.ProductServiceTest
+testFindOneAndDelete  Time elapsed: 0.165 s  <<< ERROR!
+java.util.NoSuchElementException: No value present
+	at com.training.ecommerce.test.ProductServiceTest.testFindOneAndDelete(ProductServiceTest.java:57)
+
